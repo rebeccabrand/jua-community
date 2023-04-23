@@ -94,7 +94,7 @@
 .bg-image { 
   max-width: 100%; 
   height: auto; 
-  background-image: url('/Users/rebeccabrand/Documents/Code/jua-community/assets/jua_header.png'); 
+  background-image: url('jua_header.png'); 
   background-size: 100% 100%;  
   background-repeat: no-repeat;
 } 
@@ -10868,7 +10868,7 @@ header.masthead {
   overflow: hidden;
   padding-top: calc(7rem + 72px);
   padding-bottom: 7rem;
-  background-image: url(/Users/rebeccabrand/Documents/Code/jua-community/assets/jua_header_2.JPG);
+  background-image: url('assets/jua_header_2.jpg');
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
